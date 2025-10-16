@@ -6,8 +6,8 @@ Customize all [PLACEHOLDER] text and update the social links/badges.
 <!-- 1. Banner/Cover Image Placeholder -->
 
 <p align="center">
-<!-- Replace this URL with a link to your own professionally designed banner image -->
-<img src="https://www.google.com/search?q=https://via.placeholder.com/1000x200/2C3E50/FFFFFF%3Ftext%3DWelcome%2Bto%2BMd.%2BAlmahfuz%27s%2BDeveloper%2BHub" alt="Profile Banner Placeholder" />
+<!-- NOTE: This is a sophisticated placeholder. For a permanent banner, replace this URL with your own custom image. -->
+<img src="https://www.google.com/search?q=https://placehold.co/1000x200/17202A/1ABC9C%3Ftext%3DFull-Stack%2BMERN%2BDeveloper%2B%257C%2BMd.%2BAlmahfuz" alt="Developer Profile Banner" />
 </p>
 
 <!-- 2. Official Name & Short Designation (Visible in your GitHub settings) -->
