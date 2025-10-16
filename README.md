@@ -12,7 +12,7 @@ Customize all [PLACEHOLDER] text and update the social links/badges.
 
 <!-- 2. Official Name & Short Designation (Visible in your GitHub settings) -->
 
-<h1 align="center">👋 Hi, I’m [Mohammad Al Mahfuz]</h1>
+<h1 align="center">👋 Hi, I’m Mohammad Al Mahfuz</h1>
 <h3 align="center">Full-Stack JavaScript Developer | Building Scalable MERN Solutions</h3>
 
 <!-- 3. Short Description about yourself -->
@@ -26,7 +26,7 @@ I thrive on turning complex problems into clean, efficient code and am constantl
 
 <p align="center">
 <!-- Customize these badges with your real links and email -->
-<a href="mailto:[YOUR_EMAIL_HERE]">
+<a href="mailto:almahfuz@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge"/>
 </a>
 <a href="www.linkedin.com/in/almahfuz1109">
