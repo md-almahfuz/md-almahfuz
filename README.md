@@ -26,8 +26,10 @@ I thrive on turning complex problems into clean, efficient code and am constantl
 
 <p align="center">
 <!-- Customize these badges with your real links and email -->
+
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malmahfuz@gmail.com)
 <a href="mailto:almahfuz@gmail.com">
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malmahfuz@gmail.com)
+
 </a>
 <a href="www.linkedin.com/in/almahfuz1109">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
