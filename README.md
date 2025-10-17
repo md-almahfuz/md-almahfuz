@@ -22,22 +22,6 @@ A passionate Full-Stack JavaScript Developer specializing in building robust, sc
 I thrive on turning complex problems into clean, efficient code and am constantly exploring ways to optimize performance and enhance user experience.
 </p>
 
-<!-- 4. Social & Email Address Badges -->
-
-<!-- <p align="center">
-<!-- Customize these badges with your real links and email -->
-
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malmahfuz@gmail.com)
-<a href="mailto:almahfuz@gmail.com">
-
-</a>
-<a href="www.linkedin.com/in/almahfuz1109">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
-</a>
-<a href="[YOUR_PERSONAL_WEBSITE_URL]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-100000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio Badge"/>
-</a>
-</p> -->
 
 💻 Technology Stack
 
