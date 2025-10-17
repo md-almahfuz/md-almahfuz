@@ -60,7 +60,6 @@ I focus on the following technologies to deliver modern, high-performance applic
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/almahfuz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/almahfuz1109)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malmahfuz@gmail.com)
 
 
@@ -89,6 +88,9 @@ alt="md-almahfuz's Top Languages" />
 alt="md-almahfuz's GitHub Streak" />
 
 </p>
+
+Programming skill:
+C++, Javascript, PHP, ReactJS, Express
 
 ✨ Pinned Projects (Call to Action)
 
