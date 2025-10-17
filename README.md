@@ -51,6 +51,19 @@ I focus on the following technologies to deliver modern, high-performance applic
 - **Testing & Debugging** – Unit & integration testing, debugging tools.  
 - **Responsive & Mobile-First Design** – Seamless across all devices.
 
+### 💻 Corporate IT Infrastructure and Data Centre Skills
+- **Corporate Data Centre Operations** – Large Scale Data Centre Operation.  
+- **System And Network Engineering** – Small to Large full scale system and network Engineering.  
+- **Public Cloud** – Google, AWS, Amazon  
+- **Infrastructure Project Management** – Manage Small to Miduam IT infrastructure Projects with Cloud Intrigation.  
+- **Virtualization and Containerrization** – Advance Virtualization and Containerrization.
+- **Routing ans Switching** - CCNP lavel Routing and Switching 
+- **Firewall And IT Security** – IT Security Audit and Firewall configuration, Software Patching and Hardware Hardening.  
+- **Data Centre Turnup and Maintanence** – Manage Small to Large datacentre turnup.  
+- **IT Infrastructure Setup, Troubleshoot and Maintanance** – Setup Modern IT infracture keeping cloud intrigation and security in mind .  
+- **Cloud Migration and Hydrid IT Infrastructure** – Corporate Could Migration and Hybrid Infrastructure Setup .  
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/almahfuz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/almahfuz1109)
