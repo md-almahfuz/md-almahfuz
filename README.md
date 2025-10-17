@@ -24,7 +24,7 @@ I thrive on turning complex problems into clean, efficient code and am constantl
 
 <!-- 4. Social & Email Address Badges -->
 
-<p align="center">
+<!-- <p align="center">
 <!-- Customize these badges with your real links and email -->
 
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malmahfuz@gmail.com)
@@ -37,7 +37,7 @@ I thrive on turning complex problems into clean, efficient code and am constantl
 <a href="[YOUR_PERSONAL_WEBSITE_URL]">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-100000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Portfolio Badge"/>
 </a>
-</p>
+</p> -->
 
 💻 Technology Stack
 
