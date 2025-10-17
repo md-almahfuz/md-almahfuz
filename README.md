@@ -36,12 +36,8 @@ I focus on the following technologies to deliver modern, high-performance applic
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-<p align="center">
-<!-- 7. Technology Stack according with Logo (MERN Stack + common tools) -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" alt="Technology Stack Icons" />
-## 💼 Skills
 
-### 💻 MERN Stack Web Development
+### 💻 Web Development Skills
 - **HTML5, CSS3 & JavaScript Type Script** – Build responsive, interactive, semantic front-end interfaces.  
 - **React & Vue.js** – Dynamic SPAs with reusable components.  
 - **Next.js** – Server-side rendering, routing, optimized performance.  
