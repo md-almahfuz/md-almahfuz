@@ -55,7 +55,21 @@ I focus on the following technologies to deliver modern, high-performance applic
 <p align="center">
 <!-- 7. Technology Stack according with Logo (MERN Stack + common tools) -->
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" alt="Technology Stack Icons" />
+## 💼 Skills
 
+### 💻 MERN Stack Web Development
+- **HTML5, CSS3 & JavaScript Type Script** – Build responsive, interactive, semantic front-end interfaces.  
+- **React & Vue.js** – Dynamic SPAs with reusable components.  
+- **Next.js** – Server-side rendering, routing, optimized performance.  
+- **Node.js & Express.js** – Backend servers & RESTful APIs.  
+- **MongoDB & Firebase** – Databases, cloud storage, real-time data, authentication.
+- **RDMS** - Relational Database Management Design
+- **API Integration & JWT Auth** – Secure full-stack applications.  
+- **TailwindCSS & Bootstrap** – Clean, responsive UI.  
+- **Version Control & Deployment** – Git, GitHub, Vercel, Netlify.  
+- **Performance Optimization** – Lazy loading, caching, minimizing bundle size.  
+- **Testing & Debugging** – Unit & integration testing, debugging tools.  
+- **Responsive & Mobile-First Design** – Seamless across all devices.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/almahfuz)
