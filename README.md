@@ -74,19 +74,11 @@ I focus on the following technologies to deliver modern, high-performance applic
 <!-- <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,django,aws,docker,jest,c" alt="Other Tech Icons" /> -->
 </p>
 
-📊 GitHub Stats & Activity
 
-My recent activity and contributions across the platform.
-
-<p align="center">
-<!-- 8. GitHub Stats & Current Status -->
-<!-- GitHub Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmd-almahfuz%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue"
-alt="md-almahfuz's GitHub Stats" />
 
 
 **Programming Skill**
-C++, Javascript, PHP, ReactJS, Express
+C++, Java, Javascript, PHP, ReactJS, ExpressJS
 
 ✨ Pinned Projects (Call to Action)
 
