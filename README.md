@@ -80,12 +80,11 @@ I focus on the following technologies to deliver modern, high-performance applic
 **Programming Skill**
 C++, Java, Javascript, PHP, ReactJS, ExpressJS
 
-✨ [Pinned Projects] 
-
+✨ **My Recent Projects** 
 The projects pinned below showcase my skills in Full-Stack Development, API design, and modern front-end engineering:
-https://aesthetic-tartufo-1f95c1.netlify.app/
-https://app.netlify.com/projects/courageous-boba-6080a5/overview
-https://inquisitive-kelpie-d69652.netlify.app/
+
+- **Blood Donation Platform** https://aesthetic-tartufo-1f95c1.netlify.app/
+- **Modern Hotel Booking** https://app.netlify.com/projects/courageous-boba-6080a5/overview
+- **Community Gardering Forum** https://inquisitive-kelpie-d69652.netlify.app/
 
 
-👉 Make sure you have 4-6 of your best projects pinned on your GitHub profile and that each one has a detailed README.md! (See the initial plan for guidance on project READMEs.)
