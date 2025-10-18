@@ -84,19 +84,8 @@ My recent activity and contributions across the platform.
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmd-almahfuz%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue"
 alt="md-almahfuz's GitHub Stats" />
 
-<!-- Top Languages Card -->
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmd-almahfuz%26layout%3Dcompact%26theme%3Ddark"
-alt="md-almahfuz's Top Languages" />
-
-<!-- GitHub Streak (Shows contribution consistency) -->
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmd-almahfuz%26theme%3Ddark"
-alt="md-almahfuz's GitHub Streak" />
-
-</p>
-
-Programming skill:
+**Programming Skill**
 C++, Javascript, PHP, ReactJS, Express
 
 ✨ Pinned Projects (Call to Action)
