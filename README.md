@@ -5,7 +5,9 @@ Customize all [PLACEHOLDER] text and update the social links/badges.
 
 <!-- 1. Banner/Cover Image Placeholder -->
 
-<p align="center"><img width="700" height="173" alt="github-header-banner-2" src="https://github.com/user-attachments/assets/2d9fa72c-236b-45e4-86b6-1f49642da369" />
+<!-- <p align="center"><img width="700" height="173" alt="github-header-banner-2" src="https://github.com/user-attachments/assets/2d9fa72c-236b-45e4-86b6-1f49642da369" /> -->
+<p align="center"><alt="Developer Profile Banner" src="https://github.com/user-attachments/assets/2d9fa72c-236b-45e4-86b6-1f49642da369" />
+
 
 <!-- NOTE: This is a sophisticated placeholder. For a permanent banner, replace this URL with your own custom image. -->
 <!-- <img src="https://i.ibb.co/Df1JzKSw/github-header-banner-2.png" alt="Developer Profile Banner" /> -->
